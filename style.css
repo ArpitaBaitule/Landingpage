@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 100vw;
+}
+
+.navbar {
+    display: flex;
+    height: 67px;
+}
+
+.navbar li {
+    list-style: none;
+    margin: 0 12px;
+
+}
+
+.nav-link:hover {
+    color: rgb(252, 134, 226);
+    font-weight: bold;
+}
+
+.nav-item {
+    padding-left: 25px;
+}
+
+.div1 {
+    height: 2cm;
+    width: 98.8vw;
+    background-color: #150e1d;
+    font-family: Verdana;
+    color: rgb(55, 37, 75);
+}
+
+.div2 {
+      height: 10cm;
+      width: 98.8vw;
+      background-color: #0c0514;
+      font-family: Verdana;
+     color: rgb(55, 37, 75);
+}
+
+.pad{
+    padding: 0%;
+    margin: 0%;
+}
+
+.border{
+    border: 0%;
+}
+.maincolor{
+    background-color:  #0c0514 ;
+    color: white;
+    font-family: Ink free;                                  /* Blackadder ITC */
+}
+.section1{
+    padding-left: 63px;
+    padding-right: 63px;
+}
+.section1 h1{
+    font-size: 2.3rem;
+}
+.my-2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.box{
+    padding: 6px 0;
+    margin: 12px 22px;
+    min-width: 20vw;
+    border: 2px solid black;
+    border-radius: 8px;
+    border-color: white;
+    text-align: center;
+}
+.highlight {
+font-size: 1.2rem;
+font-weight: bolder;
+
+}
+.box ul{
+    list-style-type: none;
+}
+
+.box li{
+    margin: 12px 2px;
+}
+.btn{
+    font-family: Ink free;
+    padding: 8px 14px;
+    color:rgb(252, 134, 226);
+    font-size: 17px;
+    font-weight:900;
+    background-color: rgb(13, 0, 134);
+}
+.btn:hover{
+    color:  white;
+    font-weight: 5000;
+}
+
+.div3 {
+    padding-top: 10px;
+    height: 3cm;
+    width: 98.8vw;
+    background-color: #0c0514;
+    font-family: Verdana;
+   color: white;
+}
